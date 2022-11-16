@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(128, 128, 128);
+    color: #236F21;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+.text {
+    text-align: center;
+    font-size: 100px;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
